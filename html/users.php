@@ -62,4 +62,8 @@
 <?php
 	// Requre footer content in the page, including any relevant scripts
 	require_once("../includes/layout.footer.inc.php");
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> 88ae74428262f3eceb47c26bd809328181e2f7f8
